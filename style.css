@@ -1,0 +1,22 @@
+/*règle du header*/
+nav li{
+  display: inline-block;
+text-align: center;
+line-height: 2em;
+margin-right: 8em;
+margin-left: 8em;
+}
+nav{
+  background-color: grey;
+}
+nav a{
+  color: white;
+}
+/*fin des règle du header*/
+h1{
+paddin: 0% 0% 0% 30;
+}
+
+section{
+background-color: grey;
+}
