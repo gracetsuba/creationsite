@@ -20,3 +20,23 @@ paddin: 0% 0% 0% 30;
 section{
 background-color: grey;
 }
+
+footer{
+  background-color: lime;
+}
+
+footer i{
+  margin: 1em;
+}
+
+h1{
+  background-color: fuchsia;
+   outline-style: double;
+font-style: italic;
+text-align: center;
+}
+
+figure{
+  text-align: center;
+  width: 5em;
+}
